@@ -5,4 +5,4 @@
  * Drupal assets helper.
  */
 
-require 'Asset.php';
+require_once 'Asset.php';

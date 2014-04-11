@@ -1,4 +1,4 @@
-asset
-=====
+Asset
 
-Drupal assets helper
+** Description
+Drupal assets helper.

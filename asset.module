@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Drupal assets helper.
+ */
+
+require 'Asset.php';
